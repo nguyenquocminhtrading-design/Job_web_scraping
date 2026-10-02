@@ -3,7 +3,15 @@ scraping:
   delay_max: 5
   max_retries: 3
   timeout: 30
+  max_pages: 3          # số trang kết quả search quét cho mỗi từ khóa (dừng sớm nếu hết)
   respect_robots_txt: true
+
+pipeline:
+  # Nguồn sẽ cào (topcv/careerviet chưa implement — thêm vào khi sẵn sàng)
+  sources:
+    - vietnamworks
+  # Tỷ giá quy đổi USD -> VND (có thể override bằng env USD_VND_RATE)
+  usd_to_vnd: 26000
 
 database:
   db_name: "labor_market_vn"

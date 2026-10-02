@@ -1,0 +1,137 @@
+{
+  "role": "finance_accounting.general_accounting.primary",
+  "sample_size": 18,
+  "hard_skills": {
+    "mandatory": [
+      {
+        "name": "thuế",
+        "rate": 0.67
+      }
+    ],
+    "preferred": [
+      {
+        "name": "excel",
+        "rate": 0.5
+      },
+      {
+        "name": "báo cáo tài chính",
+        "rate": 0.33
+      }
+    ],
+    "optional": [
+      {
+        "name": "sap",
+        "rate": 0.28
+      },
+      {
+        "name": "chế độ kế toán",
+        "rate": 0.22
+      },
+      {
+        "name": "misa",
+        "rate": 0.22
+      },
+      {
+        "name": "tài chính doanh nghiệp",
+        "rate": 0.17
+      },
+      {
+        "name": "vat",
+        "rate": 0.11
+      },
+      {
+        "name": "ifrs",
+        "rate": 0.06
+      },
+      {
+        "name": "chuẩn mực kế toán",
+        "rate": 0.06
+      },
+      {
+        "name": "vas",
+        "rate": 0.06
+      },
+      {
+        "name": "tncn",
+        "rate": 0.06
+      },
+      {
+        "name": "oracle",
+        "rate": 0.06
+      },
+      {
+        "name": "kiểm toán nội bộ",
+        "rate": 0.06
+      }
+    ]
+  },
+  "soft_skills": {
+    "mandatory": [],
+    "preferred": [
+      {
+        "name": "lãnh đạo",
+        "rate": 0.33
+      },
+      {
+        "name": "phân tích",
+        "rate": 0.33
+      }
+    ],
+    "optional": [
+      {
+        "name": "giao tiếp",
+        "rate": 0.28
+      },
+      {
+        "name": "analytical",
+        "rate": 0.17
+      },
+      {
+        "name": "làm việc nhóm",
+        "rate": 0.17
+      },
+      {
+        "name": "chịu áp lực",
+        "rate": 0.11
+      },
+      {
+        "name": "giải quyết vấn đề",
+        "rate": 0.11
+      },
+      {
+        "name": "communication",
+        "rate": 0.11
+      },
+      {
+        "name": "presentation",
+        "rate": 0.06
+      },
+      {
+        "name": "time management",
+        "rate": 0.06
+      }
+    ]
+  },
+  "certifications": {
+    "mandatory": [],
+    "preferred": [],
+    "optional": [
+      {
+        "name": "cpa",
+        "rate": 0.06
+      },
+      {
+        "name": "cia",
+        "rate": 0.06
+      },
+      {
+        "name": "acca",
+        "rate": 0.06
+      },
+      {
+        "name": "cisa",
+        "rate": 0.06
+      }
+    ]
+  }
+}

@@ -76,6 +76,14 @@ TELEGRAM_CHANNEL_ID=id_cua_channel
 
 ### 3. Chạy các dịch vụ (Mở 2 Terminal riêng biệt)
 
+**Chạy pipeline đầy đủ (scrape → dedup → enrich → MVJD → lưu trữ):**
+```powershell
+python run_pipeline.py                                        # nhóm keyword mặc định
+python run_pipeline.py --group finance_accounting.tax_compliance.primary
+python run_pipeline.py --keyword-limit 2 --max-pages 2        # chạy nhanh để test
+```
+Kết quả: `data/processed/jobs_*.json` (JD đã chuẩn hóa), `data/processed/mvjd_*.json` (kỹ năng bắt buộc/ưu tiên), và upsert vào MongoDB nếu đang chạy (`docker compose up -d mongodb`).
+
 **Terminal 1 - Chạy Backend API (FastAPI):**
 ```powershell
 .\venv\Scripts\activate

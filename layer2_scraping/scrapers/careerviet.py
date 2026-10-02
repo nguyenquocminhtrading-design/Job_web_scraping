@@ -8,7 +8,7 @@ class CareerVietScraper(BaseScraper):
         super().__init__(config)
         self.base_url = "https://careerviet.vn"
 
-    async def search_jobs(self, keywords: List[str], filters: dict) -> List[str]:
+    async def search_jobs(self, page, keywords: List[str], filters: dict) -> List[str]:
         urls = []
         for keyword in keywords:
             encoded_kw = urllib.parse.quote(keyword)

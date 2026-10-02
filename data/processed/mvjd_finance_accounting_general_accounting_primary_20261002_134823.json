@@ -1,0 +1,197 @@
+{
+  "role": "finance_accounting.general_accounting.primary",
+  "sample_size": 72,
+  "hard_skills": {
+    "mandatory": [
+      {
+        "name": "thuế",
+        "rate": 0.67
+      }
+    ],
+    "preferred": [
+      {
+        "name": "báo cáo tài chính",
+        "rate": 0.49
+      },
+      {
+        "name": "excel",
+        "rate": 0.44
+      }
+    ],
+    "optional": [
+      {
+        "name": "vat",
+        "rate": 0.19
+      },
+      {
+        "name": "sap",
+        "rate": 0.18
+      },
+      {
+        "name": "misa",
+        "rate": 0.17
+      },
+      {
+        "name": "chế độ kế toán",
+        "rate": 0.14
+      },
+      {
+        "name": "tncn",
+        "rate": 0.14
+      },
+      {
+        "name": "chuẩn mực kế toán",
+        "rate": 0.12
+      },
+      {
+        "name": "vas",
+        "rate": 0.11
+      },
+      {
+        "name": "fast",
+        "rate": 0.11
+      },
+      {
+        "name": "tndn",
+        "rate": 0.08
+      },
+      {
+        "name": "tài chính doanh nghiệp",
+        "rate": 0.07
+      },
+      {
+        "name": "ifrs",
+        "rate": 0.06
+      },
+      {
+        "name": "kiểm toán nội bộ",
+        "rate": 0.03
+      },
+      {
+        "name": "corporate finance",
+        "rate": 0.03
+      },
+      {
+        "name": "oracle",
+        "rate": 0.01
+      },
+      {
+        "name": "m&a",
+        "rate": 0.01
+      },
+      {
+        "name": "quickbooks",
+        "rate": 0.01
+      },
+      {
+        "name": "mô hình tài chính",
+        "rate": 0.01
+      },
+      {
+        "name": "thẩm định giá",
+        "rate": 0.01
+      },
+      {
+        "name": "bctc",
+        "rate": 0.01
+      }
+    ]
+  },
+  "soft_skills": {
+    "mandatory": [],
+    "preferred": [
+      {
+        "name": "phân tích",
+        "rate": 0.33
+      }
+    ],
+    "optional": [
+      {
+        "name": "lãnh đạo",
+        "rate": 0.28
+      },
+      {
+        "name": "giao tiếp",
+        "rate": 0.28
+      },
+      {
+        "name": "communication",
+        "rate": 0.12
+      },
+      {
+        "name": "analytical",
+        "rate": 0.08
+      },
+      {
+        "name": "làm việc nhóm",
+        "rate": 0.08
+      },
+      {
+        "name": "giải quyết vấn đề",
+        "rate": 0.08
+      },
+      {
+        "name": "chịu áp lực",
+        "rate": 0.04
+      },
+      {
+        "name": "time management",
+        "rate": 0.04
+      },
+      {
+        "name": "problem solving",
+        "rate": 0.03
+      },
+      {
+        "name": "quản lý thời gian",
+        "rate": 0.03
+      },
+      {
+        "name": "leadership",
+        "rate": 0.03
+      },
+      {
+        "name": "presentation",
+        "rate": 0.01
+      },
+      {
+        "name": "work under pressure",
+        "rate": 0.01
+      }
+    ]
+  },
+  "certifications": {
+    "mandatory": [],
+    "preferred": [],
+    "optional": [
+      {
+        "name": "chứng chỉ kế toán trưởng",
+        "rate": 0.11
+      },
+      {
+        "name": "cpa",
+        "rate": 0.1
+      },
+      {
+        "name": "acca",
+        "rate": 0.06
+      },
+      {
+        "name": "cfa",
+        "rate": 0.04
+      },
+      {
+        "name": "cpa việt nam",
+        "rate": 0.03
+      },
+      {
+        "name": "cisa",
+        "rate": 0.01
+      },
+      {
+        "name": "cia",
+        "rate": 0.01
+      }
+    ]
+  }
+}
