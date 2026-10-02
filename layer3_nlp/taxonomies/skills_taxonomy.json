@@ -1,0 +1,18 @@
+{
+  "hard_skills": {
+    "software": ["excel", "sap", "oracle", "power bi", "tableau", "sql", "python", "r", "quickbooks", "misa", "fast"],
+    "accounting_standards": ["ifrs", "vfrs", "gaap", "vas", "chuẩn mực kế toán", "chế độ kế toán"],
+    "financial_tools": ["bloomberg", "refinitiv", "factset", "capital iq", "thomson reuters"],
+    "domains": ["thuế", "vat", "tncn", "tndn", "bctc", "báo cáo tài chính", "kiểm toán nội bộ", "internal audit", "tài chính doanh nghiệp", "corporate finance", "m&a", "thẩm định giá", "valuation", "modeling", "mô hình tài chính"]
+  },
+  "soft_skills": [
+    "giao tiếp", "communication", "lãnh đạo", "leadership", 
+    "phân tích", "analytical", "giải quyết vấn đề", "problem solving", 
+    "làm việc nhóm", "teamwork", "thuyết trình", "presentation",
+    "quản lý thời gian", "time management", "chịu áp lực", "work under pressure"
+  ],
+  "certifications": {
+    "domestic": ["cpa vn", "cpa việt nam", "chứng chỉ hành nghề kế toán", "chứng chỉ kế toán trưởng"],
+    "international": ["cpa", "cpa úc", "cpa australia", "cfa", "acca", "cma", "cia", "frm", "caia", "cfp", "cfe", "cisa"]
+  }
+}

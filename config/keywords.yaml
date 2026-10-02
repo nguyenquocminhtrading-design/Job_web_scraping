@@ -1,0 +1,614 @@
+# ============================================
+# FINANCE / ACCOUNTING / INVESTMENT
+# ============================================
+finance_accounting:
+  # ---------- 1. GENERAL ACCOUNTING ----------
+  general_accounting:
+    primary:
+      - "kế toán"
+      - "kế toán tổng hợp"
+      - "kế toán viên"
+      - "accountant"
+      - "general accountant"
+      - "chief accountant"
+      - "kế toán trưởng"
+    long_tail:
+      - "kế toán thanh toán"
+      - "kế toán công nợ"
+      - "kế toán kho"
+      - "kế toán bán hàng"
+      - "kế toán ngân hàng"
+      - "kế toán tiền lương"
+      - "kế toán chi phí"
+      - "kế toán doanh thu"
+      - "accounts payable"
+      - "accounts receivable"
+      - "general ledger accountant"
+      - "cost accountant"
+      - "payroll accountant"
+      - "staff accountant"
+      - "senior accountant"
+      - "accounting manager"
+      - "AR accountant"
+      - "AP accountant"
+    seniority:
+      - "kế toán thực tập"
+      - "kế toán junior"
+      - "kế toán senior"
+      - "trưởng nhóm kế toán"
+      - "phó phòng kế toán"
+      - "kế toán trưởng"
+      - "giám đốc tài chính"
+    aliases:
+      - "KTTH"
+      - "KT tổng hợp"
+
+  # ---------- 2. TAX & COMPLIANCE ----------
+  tax_compliance:
+    primary:
+      - "kế toán thuế"
+      - "thuế"
+      - "tax accountant"
+      - "tax specialist"
+      - "chuyên viên thuế"
+      - "tax consultant"
+    long_tail:
+      - "thuế GTGT"
+      - "thuế TNDN"
+      - "thuế TNCN"
+      - "thuế xuất nhập khẩu"
+      - "quyết toán thuế"
+      - "hoàn thuế"
+      - "tax compliance"
+      - "tax advisory"
+      - "tax manager"
+      - "corporate tax"
+      - "transfer pricing"
+      - "tax analyst"
+      - "chuyên viên tư vấn thuế"
+      - "kiểm tra thuế"
+    seniority:
+      - "nhân viên thuế"
+      - "chuyên viên thuế"
+      - "trưởng phòng thuế"
+      - "tax director"
+
+  # ---------- 3. AUDIT & ASSURANCE ----------
+  audit_assurance:
+    primary:
+      - "kiểm toán"
+      - "audit"
+      - "kiểm toán viên"
+      - "auditor"
+      - "internal audit"
+      - "kiểm toán nội bộ"
+    long_tail:
+      - "kiểm toán độc lập"
+      - "kiểm toán nội bộ"
+      - "kiểm toán hoạt động"
+      - "kiểm toán tuân thủ"
+      - "external audit"
+      - "internal auditor"
+      - "IT audit"
+      - "audit assistant"
+      - "audit senior"
+      - "audit manager"
+      - "audit partner"
+      - "trợ lý kiểm toán"
+      - "chuyên viên kiểm toán"
+      - "kiểm soát nội bộ"
+      - "internal control"
+    seniority:
+      - "audit intern"
+      - "audit associate"
+      - "audit senior"
+      - "audit assistant manager"
+      - "audit manager"
+      - "audit director"
+    companies_focus:
+      - "Big4"
+      - "KPMG"
+      - "Deloitte"
+      - "EY"
+      - "PwC"
+
+  # ---------- 4. FINANCIAL ANALYSIS / FP&A ----------
+  financial_analysis_fpa:
+    primary:
+      - "phân tích tài chính"
+      - "financial analyst"
+      - "FP&A"
+      - "financial planning and analysis"
+      - "chuyên viên phân tích tài chính"
+    long_tail:
+      - "financial modeling"
+      - "budgeting"
+      - "forecasting"
+      - "variance analysis"
+      - "financial reporting"
+      - "management reporting"
+      - "chuyên viên ngân sách"
+      - "chuyên viên dự báo"
+      - "KPI analysis"
+      - "senior financial analyst"
+      - "FP&A manager"
+      - "finance business partner"
+      - "commercial finance"
+      - "corporate FP&A"
+    seniority:
+      - "financial analyst"
+      - "senior financial analyst"
+      - "lead financial analyst"
+      - "FP&A manager"
+      - "head of FP&A"
+
+  # ---------- 5. CORPORATE FINANCE / M&A ----------
+  corporate_finance:
+    primary:
+      - "corporate finance"
+      - "tài chính doanh nghiệp"
+      - "M&A"
+      - "mergers and acquisitions"
+      - "mua bán sáp nhập"
+    long_tail:
+      - "M&A analyst"
+      - "M&A associate"
+      - "M&A manager"
+      - "corporate development"
+      - "due diligence"
+      - "valuation"
+      - "định giá doanh nghiệp"
+      - "financial restructuring"
+      - "capital raising"
+      - "fundraising"
+      - "IPO"
+      - "equity financing"
+      - "debt financing"
+      - "investment banking"
+      - "IB analyst"
+      - "IB associate"
+    seniority:
+      - "analyst"
+      - "associate"
+      - "VP"
+      - "director"
+      - "managing director"
+
+  # ---------- 6. INVESTMENT / ASSET MANAGEMENT ----------
+  asset_management:
+    primary:
+      - "đầu tư"
+      - "investment"
+      - "investment analyst"
+      - "fund manager"
+      - "quản lý quỹ"
+      - "chuyên viên đầu tư"
+    long_tail:
+      - "equity research"
+      - "equity analyst"
+      - "portfolio manager"
+      - "asset management"
+      - "quản lý danh mục"
+      - "phân tích cổ phiếu"
+      - "phân tích ngành"
+      - "investment associate"
+      - "investment manager"
+      - "private equity"
+      - "venture capital"
+      - "VC analyst"
+      - "PE analyst"
+      - "hedge fund"
+      - "wealth management"
+      - "quản lý tài sản"
+      - "chứng khoán"
+      - "securities"
+      - "broker"
+      - "môi giới chứng khoán"
+      - "phân tích đầu tư"
+    seniority:
+      - "intern"
+      - "analyst"
+      - "senior analyst"
+      - "associate"
+      - "portfolio manager"
+      - "fund manager"
+      - "investment director"
+      - "CIO"
+
+  # ---------- 7. RISK MANAGEMENT ----------
+  risk_management:
+    primary:
+      - "risk management"
+      - "quản trị rủi ro"
+      - "risk analyst"
+      - "chuyên viên rủi ro"
+    long_tail:
+      - "credit risk"
+      - "market risk"
+      - "operational risk"
+      - "liquidity risk"
+      - "enterprise risk management"
+      - "ERM"
+      - "Basel"
+      - "IFRS 9"
+      - "risk modeler"
+      - "stress testing"
+      - "risk control"
+      - "risk manager"
+      - "CRO"
+      - "chief risk officer"
+      - "AML"
+      - "KYC"
+      - "chống rửa tiền"
+    seniority:
+      - "risk officer"
+      - "senior risk analyst"
+      - "risk manager"
+      - "head of risk"
+
+  # ---------- 8. TREASURY ----------
+  treasury:
+    primary:
+      - "treasury"
+      - "ngân quỹ"
+      - "treasury analyst"
+      - "chuyên viên ngân quỹ"
+    long_tail:
+      - "cash management"
+      - "quản lý dòng tiền"
+      - "forex management"
+      - "quản lý ngoại hối"
+      - "interest rate risk"
+      - "funding"
+      - "liquidity management"
+      - "treasury manager"
+      - "treasurer"
+      - "corporate treasury"
+
+  # ---------- 9. FINTECH FINANCE ----------
+  fintech_finance:
+    primary:
+      - "fintech"
+      - "tài chính số"
+      - "digital finance"
+    long_tail:
+      - "payment"
+      - "thanh toán số"
+      - "e-wallet"
+      - "ví điện tử"
+      - "blockchain finance"
+      - "DeFi"
+      - "crypto analyst"
+      - "financial product"
+      - "product finance"
+      - "BNPL"
+      - "lending"
+      - "cho vay số"
+
+# ============================================
+# BUSINESS / OPERATIONS / STRATEGY
+# ============================================
+business_operations:
+  # ---------- 1. BUSINESS ANALYST ----------
+  business_analyst:
+    primary:
+      - "business analyst"
+      - "BA"
+      - "chuyên viên phân tích nghiệp vụ"
+      - "phân tích nghiệp vụ"
+    long_tail:
+      - "senior business analyst"
+      - "lead BA"
+      - "product owner"
+      - "PO"
+      - "functional consultant"
+      - "business process analyst"
+      - "system analyst"
+      - "IT BA"
+      - "finance BA"
+      - "banking BA"
+      - "insurance BA"
+      - "ERP BA"
+      - "SAP BA"
+      - "requirement analyst"
+      - "chuyên viên nghiệp vụ"
+    seniority:
+      - "junior BA"
+      - "middle BA"
+      - "senior BA"
+      - "lead BA"
+      - "BA manager"
+
+  # ---------- 2. STRATEGY & PLANNING ----------
+  strategy_planning:
+    primary:
+      - "strategy"
+      - "chiến lược"
+      - "corporate strategy"
+      - "strategy analyst"
+    long_tail:
+      - "business strategy"
+      - "strategic planning"
+      - "hoạch định chiến lược"
+      - "market research"
+      - "nghiên cứu thị trường"
+      - "competitive analysis"
+      - "business development"
+      - "BD"
+      - "phát triển kinh doanh"
+      - "corporate development"
+      - "strategy manager"
+      - "chief of staff"
+
+  # ---------- 3. OPERATIONS ----------
+  operations:
+    primary:
+      - "operations"
+      - "vận hành"
+      - "operations analyst"
+      - "chuyên viên vận hành"
+    long_tail:
+      - "business operations"
+      - "sales operations"
+      - "marketing operations"
+      - "operations manager"
+      - "process improvement"
+      - "lean"
+      - "six sigma"
+      - "supply chain operations"
+      - "logistics operations"
+      - "customer operations"
+
+  # ---------- 4. CONSULTING ----------
+  consulting:
+    primary:
+      - "consultant"
+      - "tư vấn"
+      - "management consulting"
+      - "business consultant"
+    long_tail:
+      - "strategy consultant"
+      - "financial consultant"
+      - "risk consultant"
+      - "IT consultant"
+      - "ERP consultant"
+      - "SAP consultant"
+      - "Oracle consultant"
+      - "Big4 consultant"
+      - "MBB"
+      - "McKinsey"
+      - "BCG"
+      - "Bain"
+      - "tư vấn quản lý"
+      - "tư vấn tài chính"
+      - "tư vấn thuế"
+
+# ============================================
+# DATA ANALYTICS / BI / DATA SCIENCE
+# ============================================
+data_analytics:
+  # ---------- 1. DATA ANALYST ----------
+  data_analyst:
+    primary:
+      - "data analyst"
+      - "chuyên viên phân tích dữ liệu"
+      - "phân tích dữ liệu"
+    long_tail:
+      - "senior data analyst"
+      - "lead data analyst"
+      - "product analyst"
+      - "marketing analyst"
+      - "growth analyst"
+      - "finance data analyst"
+      - "risk data analyst"
+      - "SQL analyst"
+      - "Excel analyst"
+      - "Power BI analyst"
+      - "Tableau analyst"
+      - "report analyst"
+      - "data analytics"
+      - "analytics engineer"
+    tools_skills:
+      - "SQL"
+      - "Python"
+      - "R"
+      - "Excel"
+      - "Power BI"
+      - "Tableau"
+      - "Looker"
+      - "Google Analytics"
+
+  # ---------- 2. BUSINESS INTELLIGENCE ----------
+  business_intelligence:
+    primary:
+      - "business intelligence"
+      - "BI"
+      - "BI analyst"
+      - "BI developer"
+      - "chuyên viên BI"
+    long_tail:
+      - "BI manager"
+      - "data visualization"
+      - "dashboard developer"
+      - "Power BI developer"
+      - "Tableau developer"
+      - "Qlik developer"
+      - "Looker developer"
+      - "SSRS"
+      - "SSIS"
+      - "ETL developer"
+      - "data warehouse"
+      - "DWH"
+
+  # ---------- 3. DATA ENGINEERING ----------
+  data_engineering:
+    primary:
+      - "data engineer"
+      - "kỹ sư dữ liệu"
+      - "data architect"
+    long_tail:
+      - "big data engineer"
+      - "ETL engineer"
+      - "data platform"
+      - "data pipeline"
+      - "Snowflake"
+      - "Databricks"
+      - "Airflow"
+      - "Spark"
+      - "Kafka"
+      - "Hadoop"
+      - "cloud data engineer"
+      - "AWS data engineer"
+      - "Azure data engineer"
+      - "GCP data engineer"
+
+  # ---------- 4. DATA SCIENCE / ML ----------
+  data_science:
+    primary:
+      - "data scientist"
+      - "khoa học dữ liệu"
+      - "machine learning engineer"
+      - "ML engineer"
+    long_tail:
+      - "AI engineer"
+      - "deep learning"
+      - "NLP engineer"
+      - "computer vision"
+      - "predictive modeling"
+      - "quantitative analyst"
+      - "quant"
+      - "quant researcher"
+      - "algorithm engineer"
+      - "recommendation system"
+
+  # ---------- 5. FINANCIAL DATA / QUANT ----------
+  financial_data:
+    primary:
+      - "financial data analyst"
+      - "quantitative analyst"
+      - "quant"
+      - "phân tích định lượng"
+    long_tail:
+      - "quant researcher"
+      - "quant developer"
+      - "algorithmic trading"
+      - "trading system"
+      - "market data analyst"
+      - "risk modeler"
+      - "pricing analyst"
+      - "actuary"
+      - "actuarial analyst"
+      - "định phí bảo hiểm"
+
+  # ---------- 6. RISK DATA / FRAUD ----------
+  risk_data:
+    primary:
+      - "risk data analyst"
+      - "fraud analyst"
+      - "chuyên viên chống gian lận"
+    long_tail:
+      - "credit scoring"
+      - "fraud detection"
+      - "AML analyst"
+      - "KYC analyst"
+      - "transaction monitoring"
+      - "anti-money laundering"
+      - "credit model"
+      - "risk modeling"
+
+# ============================================
+# CROSS-CUTTING: SENIORITY & SKILL MAPPING
+# ============================================
+global_modifiers:
+  seniority_levels:
+    - "intern"
+    - "thực tập sinh"
+    - "fresher"
+    - "junior"
+    - "middle"
+    - "senior"
+    - "lead"
+    - "team lead"
+    - "supervisor"
+    - "manager"
+    - "trưởng phòng"
+    - "giám đốc"
+    - "director"
+    - "head of"
+    - "VP"
+    - "C-level"
+    - "CFO"
+    - "CEO"
+    - "COO"
+    - "CIO"
+    - "CRO"
+
+  certifications:
+    finance_accounting:
+      - "CPA"
+      - "ACCA"
+      - "CMA"
+      - "CIA"
+      - "CFA"
+      - "FRM"
+      - "CFP"
+      - "CIMA"
+      - "CA"
+      - "chứng chỉ kế toán"
+      - "chứng chỉ kiểm toán"
+    data:
+      - "Google Data Analytics"
+      - "Microsoft Certified: Data Analyst"
+      - "AWS Data Analytics"
+      - "Databricks Certified"
+      - "Tableau Desktop Specialist"
+
+  common_tools:
+    finance:
+      - "Excel"
+      - "SAP"
+      - "Oracle"
+      - "QuickBooks"
+      - "MISA"
+      - "Fast"
+      - "Bravo"
+      - "ERP"
+      - "Power BI"
+      - "Bloomberg"
+      - "Reuters"
+      - "FactSet"
+    data:
+      - "SQL"
+      - "Python"
+      - "R"
+      - "Power BI"
+      - "Tableau"
+      - "Looker"
+      - "Snowflake"
+      - "dbt"
+      - "Airflow"
+
+  languages:
+    - "tiếng Anh"
+    - "tiếng Nhật"
+    - "tiếng Trung"
+    - "tiếng Hàn"
+    - "IELTS"
+    - "TOEIC"
+    - "JLPT"
+    - "HSK"
+
+# ============================================
+# EXPANSION ROADMAP (mở rộng thêm)
+# ============================================
+future_domains:
+  - insurance
+  - banking_retail
+  - banking_corporate
+  - real_estate_finance
+  - healthcare_finance
+  - supply_chain
+  - HR_analytics
+  - marketing_analytics
+  - ESG_sustainability
+  - legal_compliance

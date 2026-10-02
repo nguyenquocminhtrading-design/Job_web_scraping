@@ -1,0 +1,13 @@
+scraping:
+  delay_min: 2
+  delay_max: 5
+  max_retries: 3
+  timeout: 30
+  respect_robots_txt: true
+
+database:
+  db_name: "labor_market_vn"
+
+schedule:
+  weekly_scrape: "0 2 * * 1"
+  daily_trend: "0 6 * * *"
